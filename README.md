@@ -6,7 +6,7 @@
 
 - 🧨 I started with UX/UI Design, **but couldn't resist the Business Intelligence world.**
 
-- 🌱 I’m currently studying **SQL.**
+- 🌱 I’m currently studying **SQL and Data Storytelling.**
 
 - 💬 Ask me about **anything; If I don't know, even better. I'm always happy to learn new things.**
 
