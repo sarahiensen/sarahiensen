@@ -10,4 +10,4 @@
 
 - 🎻 In my free time, I like to **do 3D modeling, play video games and watch TV.**
 
-- 📫 You can reach me at **www.linkedin.com/in/sarah-iensen**
+- 📫 You can reach me at **www.linkedin.com/in/sarah-iensen-morais**
